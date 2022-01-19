@@ -1,0 +1,4 @@
+#Tue Jan 11 21:50:58 ICT 2022
+base.0=D\:\\KULIAH\\BWA\\SC REACT LARAVEL FOOD MARKET\\Food Market Code\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
